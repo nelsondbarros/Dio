@@ -1,5 +1,5 @@
 ### Repositório da DIO <br>
 
 <ul>
-    <li>[Trilha .NET - Fundamentos](https://github.com/nelsondbarros/trilha-net-fundamentos-desafio)</li>
+    <li><a href="https://github.com/nelsondbarros/trilha-net-fundamentos-desafio">Trilha .NET - Fundamentos</a></li>
 </ul>
